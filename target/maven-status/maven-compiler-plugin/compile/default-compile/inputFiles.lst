@@ -1,4 +1,0 @@
-/Users/rmaruthiyodan/Documents/workspace/kafka2hdfs/src/main/java/com/hwxlabs/storm/StreamKafka2Hdfs/spout/KafkaSpoutBuilder.java
-/Users/rmaruthiyodan/Documents/workspace/kafka2hdfs/src/main/java/com/hwxlabs/storm/StreamKafka2Hdfs/Topology.java
-/Users/rmaruthiyodan/Documents/workspace/kafka2hdfs/src/main/java/com/hwxlabs/storm/StreamKafka2Hdfs/Keys.java
-/Users/rmaruthiyodan/Documents/workspace/kafka2hdfs/src/main/java/com/hwxlabs/storm/StreamKafka2Hdfs/bolt/HdfsBoltBuilder.java
